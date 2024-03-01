@@ -4,8 +4,8 @@
 #include <ESP32Servo.h>
 
 //Add WIFI data
-const char* ssid = "IZZI-1F53";
-const char* password =  "2WC456400286";
+const char* ssid = "POCO M5s";
+const char* password =  "UwU12345";
 
 //Variables used in the code
 String LED_id = "1";                  //Just in case you control more than 1 LED
